@@ -1,0 +1,3 @@
+XD Delivery Group	XD Controller	VCenter	VLAN
+DeliveryGroupName1	ControllerName1	VCenterAddress1,VCenterAddress2	NetworkName1,NetworkName2
+DeliveryGroupName2	ControllerName2 VCenterAddress3	NetworkName3
